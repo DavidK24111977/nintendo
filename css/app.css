@@ -28,6 +28,7 @@ header{
     left: 15px;
     top: -30px;
     cursor: pointer;
+    letter-spacing: 1px;
 }
 #logo span{
     font-size: 22px;
